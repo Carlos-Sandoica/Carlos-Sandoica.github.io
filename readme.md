@@ -10,7 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** :  Los Regalos de Brok y Sindri
 
-**Web:**   https://carlos-sandoica.github.io/
+**Web:**   https://carlos-sandoica.github.io/index.html.html
 
 **Autor:**  Carlos Sandoica López
 
